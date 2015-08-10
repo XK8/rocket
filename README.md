@@ -1,4 +1,4 @@
-<h1 align="center">Rocket React</h1>
+<h1 align="center"><a href="http://habrahabr.ru/post/264343/">Rocket React</a></h1>
 
 <p align="center"><a href="http://gooddev.org/"><img src="http://gooddev.org/rocket/logo_rocket.jpg" alt="Use boilerplate from https://github.com/AlexSergey/rocket" /></a></p>
 
